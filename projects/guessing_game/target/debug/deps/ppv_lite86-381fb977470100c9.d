@@ -1,0 +1,10 @@
+/Users/yuniorrodriguezosorio/Documents/GitHub/rust_roadmap/projects/guessing_game/target/debug/deps/ppv_lite86-381fb977470100c9.rmeta: /Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/lib.rs /Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/soft.rs /Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/types.rs /Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/generic.rs
+
+/Users/yuniorrodriguezosorio/Documents/GitHub/rust_roadmap/projects/guessing_game/target/debug/deps/libppv_lite86-381fb977470100c9.rlib: /Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/lib.rs /Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/soft.rs /Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/types.rs /Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/generic.rs
+
+/Users/yuniorrodriguezosorio/Documents/GitHub/rust_roadmap/projects/guessing_game/target/debug/deps/ppv_lite86-381fb977470100c9.d: /Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/lib.rs /Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/soft.rs /Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/types.rs /Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/generic.rs
+
+/Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/lib.rs:
+/Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/soft.rs:
+/Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/types.rs:
+/Users/yuniorrodriguezosorio/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.20/src/generic.rs:
